@@ -1,7 +1,7 @@
 # Tiktaktoe
 
 ## Repository
-<Link to your project's public GitHub respository>
+https://github.com/DanielCastillo1987/Final-Project-ANGM-2305.0W1---PROGRAMMING-FOR-DIGITAL-ARTS-.git 
 
 ## Description
 You and the AI opponent will battle it out in tictaktoe but with a few twists.
